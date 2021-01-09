@@ -1,0 +1,2 @@
+# 404
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/a263b09833794e12bbceedd5f5828570)](https://app.codacy.com/gh/alexandereric995/404?utm_source=github.com&utm_medium=referral&utm_content=alexandereric995/404&utm_campaign=Badge_Grade_Settings)
